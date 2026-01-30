@@ -109,7 +109,6 @@ function App() {
           </div>
         </div>
       </nav>
-
       {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-green-600 to-emerald-700 text-white py-20 overflow-hidden">
         <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg width="100" height="100" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath d="M0 0h100v100H0z" fill="none"/%3E%3Cpath d="M20 20h10v10H20zM70 70h10v10H70z" fill="white" fill-opacity="0.05"/%3E%3C/svg%3E')]"></div>
@@ -120,7 +119,6 @@ function App() {
                 <Sparkles className="w-4 h-4 mr-2" />
                 <span className="text-sm">Join South Africa's First Mobile Spa Network</span>
               </div>
-              
               <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
                 On-demand Spa Service
                 <br />
